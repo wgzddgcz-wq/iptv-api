@@ -1,24 +1,36 @@
 🕘️更新时间,#genre#
-2025-09-30 06:31:17,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+2025-10-01 18:45:47,http://113.26.202.52:1299/tsfile/live/0005_1.m3u8
 
 📺央视频道,#genre#
+CCTV-5,http://113.26.202.52:1299/tsfile/live/0005_1.m3u8
+CCTV-6,http://113.26.202.52:1299/tsfile/live/0006_1.m3u8
+CCTV-11,http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-14,http://112.132.10.54:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
+CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
-CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
+CETV-2,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/CETV-2_4000.m3u8
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
+广东卫视,http://111.227.196.164:9901/tsfile/live/0125_1.m3u8
+广东卫视,http://113.26.202.52:1299/tsfile/live/0125_1.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://112.132.10.54:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+东方卫视,http://113.26.202.52:1299/tsfile/live/0107_1.m3u8
+甘肃卫视,http://218.8.87.96:4000/rtp/229.58.190.185:5000
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 内蒙古卫视,http://zqh2333.top:2222/rtp/239.93.24.8:5140
 青海卫视,http://zqh2333.top:2222/rtp/239.93.24.192:5140
+山西卫视,http://zqh2333.top:2222/rtp/239.93.24.6:5140
+四川卫视,http://117.86.51.74:8888/rtp/239.49.1.43:6000
 西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
 云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
 
