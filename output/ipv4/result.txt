@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-07 18:26:25,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+2025-11-08 06:24:27,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 
 📺央视频道,#genre#
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
@@ -17,7 +17,6 @@ CETV-4,http://223.10.81.133:8888/rtp/239.1.1.67:8067
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-辽宁卫视,http://sh.lnott.top:880/dx19.m3u8
 青海卫视,http://zqh2333.top:2222/rtp/239.93.24.192:5140
 
 ☘️广东频道,#genre#
