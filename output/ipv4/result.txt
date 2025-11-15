@@ -1,15 +1,10 @@
 🕘️更新时间,#genre#
-2025-11-15 18:25:06,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+2025-11-16 06:23:02,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
-CCTV-1,http://120.46.223.160/PHP/MG.php?id=608807420
 CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
-CCTV-2,http://120.46.223.160/PHP/MG.php?id=631780532
-CCTV-3,http://120.46.223.160/PHP/MG.php?id=624878271
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
-CCTV-4,http://120.46.223.160/PHP/MG.php?id=631780421
-CCTV-5,http://120.46.223.160/PHP/MG.php?id=641886683
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
@@ -27,8 +22,6 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://106.53.99.30/tv/bj.php?id=bjws4k
-广西卫视,http://sh.lnott.top:880/dx41.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 青海卫视,http://zqh2333.top:2222/rtp/239.93.24.192:5140
 
