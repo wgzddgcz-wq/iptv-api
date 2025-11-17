@@ -1,24 +1,22 @@
 🕘️更新时间,#genre#
-2025-11-17 18:30:09,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+2025-11-18 06:26:12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
-CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
 CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
+CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
 CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3
-CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
-CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807416
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
+CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
 CCTV-5,http://bxtv.3a.ink/migu.php?id=cctv5
 CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p
 CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6
+CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq
 CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
-CCTV-7,http://120.46.223.160/PHP/MG.php?id=673168121
-CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
 CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
+CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=cq
 CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
-CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
 CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10
 CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11
