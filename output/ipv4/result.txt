@@ -1,33 +1,27 @@
 🕘️更新时间,#genre#
-2025-11-18 06:26:12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+2025-11-19 18:27:54,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
 CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
-CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
 CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
 CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
 CCTV-5,http://bxtv.3a.ink/migu.php?id=cctv5
 CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p
 CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6
-CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq
 CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
+CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq
 CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=cq
-CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
 CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10
-CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11
 CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
 CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12
-CCTV-12,http://61.184.46.85:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq
 CCTV-13,http://bxtv.3a.ink/migu.php?id=cctv13
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
-CCTV-15,http://bxtv.3a.ink/migu.php?id=cctv15
 CCTV-17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=gq
 CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
