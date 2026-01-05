@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2026-01-04 06:27:05,http://183.220.107.138:4022/rtp/239.11.0.130:5140
+2026-01-05 18:30:55,http://183.220.107.138:4022/rtp/239.11.0.130:5140
 
 📺央视频道,#genre#
 CCTV-1,http://183.220.107.138:4022/rtp/239.11.0.130:5140
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5fffe4d5ef1d5d3c94e4ee61cd25fe24
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
