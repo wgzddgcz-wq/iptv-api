@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-04-22 06:46:51,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b1d16e9d92395e2609243096620fa89c
+2026-04-23 19:14:15,http://69.30.246.194/live/cctv5p.m3u8
 
 📺央视频道,#genre#
+CCTV-5+,http://69.30.246.194/live/cctv5p.m3u8
 CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b1d16e9d92395e2609243096620fa89c
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
@@ -11,7 +12,6 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://23.237.228.134/live3/dongfang.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 
 ☘️广东频道,#genre#
 
