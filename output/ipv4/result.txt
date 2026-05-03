@@ -1,26 +1,36 @@
 🕘️更新时间,#genre#
-2026-05-02 06:56:09,http://198.204.228.26/live/cctv2hd.m3u8
+2026-05-03 18:57:50,http://198.204.228.26/live/cctv2hd.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://198.204.228.26/live/cctv2hd.m3u8
 CCTV-2,http://192.151.150.154/live/cctv2hd.m3u8
+CCTV-3,http://192.151.150.154/live/cctv3hd.m3u8
 CCTV-5,http://192.151.150.154/live/cctv5hd.m3u8
+CCTV-8,http://192.151.150.154/live/cctv8hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
+CCTV-16,http://192.151.150.154/live/cctv16hd.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 
 📡卫视频道,#genre#
-广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=d66348b222c74382e7cec90352efc43b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
+浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=71f2f18b70580fb254c80c2189bf274d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=1
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
+湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=5f57cbadedc2a213746e3a599219e2f1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方卫视,http://23.237.228.134/live3/dongfang.m3u8
+甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=f60c1d3f290ed5ccba22a6ed075ce018&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=138a77a2a88f0a2df6d0af493cf4d5bc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=1eb62af518d01fe1f33bd5f61613e9cd&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=e6115275e3e4065441b2b9117937c8b2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=2e3c19907f83ee49962e7a3b1db2c093&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8
 青海卫视,http://198.204.228.26/live/qhws.m3u8
-山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=bac5a94d63bfe566f40a5adcc3f7ce50&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=bc5373f189ebbc7620c2a4aba9bdc2ec&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=5386c588d4bbd34f863c7366b934f9d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+新疆卫视,http://192.151.150.154/live/xjws.m3u8
 云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=0fb596dd22d0e6fbf7e347d81374ac88&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️广东频道,#genre#
