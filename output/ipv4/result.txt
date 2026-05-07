@@ -1,10 +1,18 @@
 🕘️更新时间,#genre#
-2026-05-06 07:02:31,http://198.204.228.26/live/cctv2hd.m3u8
+2026-05-07 19:51:51,http://198.204.228.26/live/cctv2hd.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://198.204.228.26/live/cctv2hd.m3u8
+CCTV-3,http://198.204.228.26/live/cctv3hd.m3u8
+CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-5,http://192.151.150.154/live/cctv5hd.m3u8
+CCTV-7,http://192.151.150.154/live/cctv7hd.m3u8
+CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
+CCTV-9,http://192.151.150.154/live/cctv9hd.m3u8
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d872f00c516e7fa60ee46c69920afb7c
+CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 
 📡卫视频道,#genre#
@@ -13,11 +21,13 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 东方卫视,http://23.237.228.134/live3/dongfang.m3u8
+甘肃卫视,http://112.132.10.54:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 内蒙古卫视,http://198.204.228.26/live/nmgws.m3u8
+宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 青海卫视,http://198.204.228.26/live/qhws.m3u8
-新疆卫视,http://107.150.60.122/live/xjws.m3u8
 新疆卫视,http://198.204.228.26/live/xjws.m3u8
+新疆卫视,http://107.150.60.122/live/xjws.m3u8
 
 ☘️广东频道,#genre#
 广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=1
