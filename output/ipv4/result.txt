@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-06-27 19:38:20,http://173.208.212.130:8181/720p/cctv5.m3u8
+2026-06-28 07:10:00,http://www.negative.top:50000/rtp/233.50.200.102:5140
 
 📺央视频道,#genre#
-CCTV-5,http://173.208.212.130:8181/720p/cctv5.m3u8
 CCTV-7,http://www.negative.top:50000/rtp/233.50.200.102:5140
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-9,http://www.negative.top:50000/rtp/233.50.200.23:5140
@@ -13,16 +12,10 @@ CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://204.12.221.218:8181/3m1080p/dfws.m3u8
-贵州卫视,http://221.226.51.220:50081/newlive/live/hls/35/live.m3u8
-海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-吉林卫视,http://204.12.221.218:8181/3m1080p/jlws.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
-云南卫视,http://fuxin.yunjifei.top:999/tsfile/live/0119_1.m3u8?key=txiptv
 
 ☘️广东频道,#genre#
 广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=1
