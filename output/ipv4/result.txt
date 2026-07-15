@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2026-07-14 07:01:24,http://www.negative.top:50000/rtp/233.50.200.102:5140
+2026-07-15 19:38:29,http://www.negative.top:50000/rtp/233.50.200.102:5140
 
 📺央视频道,#genre#
 CCTV-7,http://www.negative.top:50000/rtp/233.50.200.102:5140
 CCTV-9,http://www.negative.top:50000/rtp/233.50.200.23:5140
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
+CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
@@ -14,6 +15,8 @@ CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
+四川卫视,http://182.37.41.46:8154/tsfile/live/0123_1.m3u8?key=txiptv
+深圳卫视,http://58.56.162.102:4466/newlive/live/hls/24/live.m3u8
 
 ☘️广东频道,#genre#
 
