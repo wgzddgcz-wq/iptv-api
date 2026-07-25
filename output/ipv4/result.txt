@@ -1,21 +1,13 @@
 🕘️更新时间,#genre#
-2026-07-25 19:14:16,http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=4bc9d1e75fd1f07a010e7b1b172dec39&wsTime=6a5dd919&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-202607201615205ACC9353BF3D6E6078BB-Tv3cmJ
+2026-07-26 07:00:25,http://www.negative.top:50000/rtp/233.50.200.102:5140
 
 📺央视频道,#genre#
-CCTV-2,http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=4bc9d1e75fd1f07a010e7b1b172dec39&wsTime=6a5dd919&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-202607201615205ACC9353BF3D6E6078BB-Tv3cmJ
-CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
-CCTV-6,http://104.152.209.49:8181/720p/cctv6.m3u8
-CCTV-7,http://104.152.209.49:8181/720p/cctv7.m3u8
-CCTV-7,http://204.12.221.218:8181/3m1080p/cctv7.m3u8
 CCTV-7,http://www.negative.top:50000/rtp/233.50.200.102:5140
 CCTV-9,http://www.negative.top:50000/rtp/233.50.200.23:5140
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-11,http://104.152.209.49:8181/720p/cctv11.m3u8
-CCTV-11,http://204.12.221.218:8181/3m1080p/cctv11.m3u8
 CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
-CCTV-15,http://104.152.209.49:8181/720p/cctv15.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8?streamid=a78e16d1a56172e5525dedde279787a3&streamkey=070kmnWlSO6tVxvh6JyoORGIRdEtU2N6uMhBr52XFXMlpDP5cJR3WbAE4XDUyMtM85fygRhPAwq9wyn0AD7vg5QKiMGxk82vdtaBG0RYT7p2mBDXWyty&token=1775753992-d3736074ec706d13-0-d4be0b2d62639f66eea98eb8ecb876a6
 
 📡卫视频道,#genre#
