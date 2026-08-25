@@ -1,18 +1,15 @@
 🕘️更新时间,#genre#
-2026-08-25 18:36:58,http://182.140.125.47:808/hls/1/index.m3u8
+2026-08-26 06:34:55,http://www.negative.top:50000/rtp/233.50.200.102:5140
 
 📺央视频道,#genre#
-CCTV-1,http://182.140.125.47:808/hls/1/index.m3u8
-CCTV-6,http://182.140.125.47:808/hls/6/index.m3u8
 CCTV-7,http://www.negative.top:50000/rtp/233.50.200.102:5140
 CCTV-9,http://www.negative.top:50000/rtp/233.50.200.23:5140
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 
 📡卫视频道,#genre#
-广东卫视,http://27.39.122.2:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
