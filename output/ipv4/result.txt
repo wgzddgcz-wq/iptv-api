@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-27 23:47:02,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=371981e7a0ea9334eab078d6c47203bf
+2026-10-28 09:04:58,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=371981e7a0ea9334eab078d6c47203bf
 
 📺央视频道,#genre#
 CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=371981e7a0ea9334eab078d6c47203bf
