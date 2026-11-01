@@ -1,13 +1,14 @@
 🕘️更新时间,#genre#
-2026-11-01 08:53:00,http://45.192.97.170:8880/play/258.m3u8
+2026-11-02 00:39:40,http://45.192.97.170:8880/play/258.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://45.192.97.170:8880/play/258.m3u8
 CCTV-5,http://45.192.97.170:8880/play/259.m3u8
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6eba369ff120b2ed6e1365d347cff21a
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
-CETV-1,http://45.192.97.170:8880/play/222.m3u8
 CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+CETV-1,http://45.192.97.170:8880/play/222.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
